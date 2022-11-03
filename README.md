@@ -1,5 +1,5 @@
 # HATIM SAWAI
-## Computer Engineer  
+Computer Engineer At Sardar Patel Institute of Technology  
 
 Email: hatimsawai76@gmail.com  
 Student Email: hatim.sawai@spit.ac.in  
