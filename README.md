@@ -10,3 +10,12 @@ innovative organization in a Challenging and stimulating environment that provid
 Aggressive and determined to establish system improvements and test for security precautions so as to improve the productivity and profitability of a company  
 
 # SKILLS
+### Technical Skills:  
+• Languages: C, C++, Java, & Python
+• Web Developement: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
+• Databases: MySQL, SQLite, PostgresSQL, AWS & MongoDB  
+• Git: GitLab & Github Collaborations  
+• Hosting: Netlify, Heroku & Basic Docker Containers  
+• Presentation: Word, PowerPoint, Canva & Figma
+
+# EXPERIENCE
