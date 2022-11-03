@@ -35,3 +35,8 @@ Aggressive and determined to establish system improvements and test for security
 </br>  
 
 # EXPERIENCE
+• Currently working on multiple websites for Oculus Coding League (Latest 2022-23)
+• Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
+• Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
+• Made a discord bot (StarBot) as a general multipurpose bot (2021)
+• Made many Python Based Mini Projects (2021)
