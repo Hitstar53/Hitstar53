@@ -36,3 +36,14 @@ Aggressive and determined to establish system improvements and test for security
 • Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
 • Made a discord bot (StarBot) as a general multipurpose bot (2021)  
 • Made many Python Based Mini Projects (2021)  
+
+# Few Github Stats
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Hitstar53&theme=react" width = "97.5%">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "48.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hitstar53&theme=react" width = "48.5%">
+</p>
