@@ -11,7 +11,7 @@ Aggressive and determined to establish system improvements and test for security
 
 # SKILLS  
 ### Technical Skills:   
-• Languages: C, C++, Java, & Python
+• Languages: C, C++, Java, & Python  
 • Web Developement: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
 • Databases: MySQL, SQLite, PostgresSQL, AWS & MongoDB  
 • Git: GitLab & Github Collaborations  
@@ -28,7 +28,7 @@ Aggressive and determined to establish system improvements and test for security
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
-</br>  
+</br>    
 
 # EXPERIENCE
 • Currently working on multiple websites for Oculus Coding League (Latest 2022-23)  
