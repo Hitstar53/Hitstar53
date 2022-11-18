@@ -18,6 +18,7 @@ Aggressive and determined to establish system improvements and test for security
 • Hosting: Netlify, Heroku & Basic Docker Containers  
 • Presentation: Word, PowerPoint, Canva & Figma  
 
+<p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,6 +29,7 @@ Aggressive and determined to establish system improvements and test for security
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
+</p>
 </br>  
 
 # TECH STATS
@@ -35,7 +37,7 @@ Aggressive and determined to establish system improvements and test for security
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>
 </p>  
 </br>  
-<br>
+</br>  
 
 # EXPERIENCE
 • Currently working on multiple websites for Oculus Coding League (Latest 2022-23)  
