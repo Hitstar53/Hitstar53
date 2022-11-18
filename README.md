@@ -44,6 +44,7 @@ Aggressive and determined to establish system improvements and test for security
 </p>
 
 <p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53" />
 <img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "48.5%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hitstar53&theme=react" width = "48.5%">
 </p>
