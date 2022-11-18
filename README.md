@@ -10,9 +10,7 @@ innovative organization in a Challenging and stimulating environment that provid
 Aggressive and determined to establish system improvements and test for security precautions so as to improve the productivity and profitability of a company  
 
 # SKILLS  
-<p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>
-</p>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>  
 ### Technical Skills:   
 • Languages: C, C++, Java, & Python  
 • Web Developement: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
