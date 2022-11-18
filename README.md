@@ -14,7 +14,7 @@ Aggressive and determined to establish system improvements and test for security
 
 ### Technical Skills:   
 • Languages: C, C++, Java, & Python  
-• Web Developement: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
+• Web Dev: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
 • Databases: MySQL, SQLite, PostgresSQL, AWS & MongoDB  
 • Git: GitLab & Github Collaborations  
 • Hosting: Netlify, Heroku & Basic Docker Containers  
