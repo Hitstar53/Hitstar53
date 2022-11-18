@@ -10,6 +10,9 @@ innovative organization in a Challenging and stimulating environment that provid
 Aggressive and determined to establish system improvements and test for security precautions so as to improve the productivity and profitability of a company  
 
 # SKILLS  
+<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>
+</p>
 ### Technical Skills:   
 • Languages: C, C++, Java, & Python  
 • Web Developement: Html, Css (Bootstrap), JavaScript, Flask & Django (Python)  
@@ -30,12 +33,7 @@ Aggressive and determined to establish system improvements and test for security
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
 </p>
-</br>  
-
-# TECH STATS
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>
-</p>   
+</br>     
 
 # EXPERIENCE
 • Currently working on multiple websites for Oculus Coding League (Latest 2022-23)  
