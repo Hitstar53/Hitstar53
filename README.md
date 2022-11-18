@@ -37,7 +37,7 @@ Aggressive and determined to establish system improvements and test for security
 • Made a discord bot (StarBot) as a general multipurpose bot (2021)  
 • Made many Python Based Mini Projects (2021)  
 
-# Few Github Stats
+# GITHUB STATS
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Hitstar53&theme=react" width = "97.5%">
