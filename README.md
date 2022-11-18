@@ -9,7 +9,7 @@ Passionate to pursue a global career in the field of Coding, Data Science, AI an
 innovative organization in a Challenging and stimulating environment that provides me an opportunity for growth and Achievement in my career.  
 Aggressive and determined to establish system improvements and test for security precautions so as to improve the productivity and profitability of a company  
 
-<img align="right" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>  
 
 # SKILLS   
 ### Technical Skills:   
