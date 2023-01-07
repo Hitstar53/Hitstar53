@@ -10,10 +10,10 @@ Student Email: hatim.sawai@spit.ac.in
 ### Technical Skills:   
 • Languages: C, C++, Java, & Python  
 • Frontend: Html, Css (Bootstrap), JavaScript  
-• Backend: Flask & Django (Python)  
+• Backend: Flask & Django  
 • Databases: MySQL, SQLite & MongoDB  
 • Version-Control: Git & Github     
-• Presentation: Word, PowerPoint, Canva & Figma     
+• Presentation: MS Office, Canva & Figma     
 
 # MY PROJECTS
 • Currently working on multiple websites for Oculus Coding League (Latest 2022-23)  
