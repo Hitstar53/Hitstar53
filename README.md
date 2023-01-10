@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/c16VBbh/Screenshot-20230110-111546.png" alt="Screenshot-20230110-111546" border="0" width="100%">
+
 # HATIM SAWAI
 Computer Engineer At Sardar Patel Institute of Technology  
 
@@ -5,7 +7,7 @@ Email: hatimsawai76@gmail.com
 Student Email: hatim.sawai@spit.ac.in    
 
 # SKILLS   
-<img align="right" width="375px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hitstar53"/>  
+<img align="right" width="375px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hitstar53"/>  
 
 ### Technical Skills:   
 • Languages: C, C++, Java, & Python  
@@ -29,7 +31,11 @@ Student Email: hatim.sawai@spit.ac.in
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "49%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hitstar53&theme=react" width = "49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width = "49%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hitstar53&theme=gruvbox" width = "49%">
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitstar53&theme=react">
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitstar53&theme=gruvbox" width = "65%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitstar53&theme=gruvbox&utcOffset=6" width = "31.5%">
+</p>
