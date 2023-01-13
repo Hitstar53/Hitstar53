@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/c16VBbh/Screenshot-20230110-111546.png" alt="Screenshot-20230110-111546" border="0" width="100%">
 
 # HATIM SAWAI
-Doing Computer Engineering At Sardar Patel Institute of Technology  
+Pursuing Computer Engineering At Sardar Patel Institute of Technology  
 
 Email: hatimsawai76@gmail.com  
 Student Email: hatim.sawai@spit.ac.in    
