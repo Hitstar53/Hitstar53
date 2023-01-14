@@ -36,5 +36,5 @@ Student Email: hatim.sawai@spit.ac.in
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitstar53&theme=gruvbox" width = "67%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitstar53&theme=gruvbox&utcOffset=6" width = "32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitstar53&theme=gruvbox&utcOffset=4" width = "32.5%">
 </p>
