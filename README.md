@@ -30,11 +30,11 @@ Student Email: hatim.sawai@spit.ac.in
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width = "49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Hitstar53&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width="46%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hitstar53&theme=gruvbox" width = "49%">
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitstar53&theme=gruvbox" width = "67%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitstar53&theme=gruvbox&utcOffset=4" width = "32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitstar53&theme=gruvbox" width = "65%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitstar53&theme=gruvbox&utcOffset=4" width = "31.5%">
 </p>
