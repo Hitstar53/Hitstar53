@@ -10,14 +10,16 @@ Student Email: hatim.sawai@spit.ac.in
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hitstar53"/>  
   
 • Languages: C, C++, Java, & Python  
-• Frontend: Html, Css (Bootstrap), JavaScript  
-• Backend: Flask & Django  
+• Frontend: Html, Css, JavaScript
+• Frontend Frameworks: Bootstrap, Tailwind, React
+• Backend: Flask & Django (Python)
 • Databases: MySQL, SQLite & MongoDB  
 • Version-Control: Git & Github     
 • Presentation: MS Office, Canva & Figma     
 
 # MY PROJECTS
-• Currently working on multiple websites for Oculus Coding League (Latest 2022-23)  
+• Working on AI Product Reviewer (NLP Model) (Sem IV - Latest)
+• Currently working on the event website for Oculus Coding League (2022-23)  
 • Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
 • Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
 • Made a discord bot (StarBot) as a general multipurpose bot (2021)  
