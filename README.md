@@ -18,7 +18,8 @@ Student Email: hatim.sawai@spit.ac.in
 • Presentation: MS Office, Canva & Figma     
 
 # MY PROJECTS
-• Working on AI Product Reviewer (NLP Model) (Sem IV B.Tech. CE 2023)  
+• Learning Machine Learning & NLP in Python (Latest - 2023)
+• Made an AI Product Reviewer (ReviewScope) (Sem IV B.Tech. CE 2023)  
 • Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)  
 • Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
 • Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
