@@ -11,12 +11,12 @@ Student Email: hatim.sawai@spit.ac.in
   
 • Languages: C, C++, Java, & Python  
 • Frontend: Html, CSS, JS  
-• Frontend Frameworks: Bootstrap, Tailwind, React, React-Native
-• Backend: Flask & Django (Python), Node & Express (JS)
-• Databases: MySQL, SQLite & MongoDB, firebase (GCP)
-• Version-Control: Gitlab, Github (git)  
-• Other tools: VSCode, WSL (Windows), Android Studio, Linux
-• Presentation: MS Office, Canva & Figma     
+• Frontend Frameworks: Bootstrap, Tailwind, React, React-Native  
+• Backend: Flask & Django (Python), Node & Express (JS)  
+• Databases: MySQL, SQLite & MongoDB, firebase (GCP)  
+• Version-Control: Gitlab, Github (git)    
+• Other tools: VSCode, WSL (Windows), Android Studio, Linux  
+• Presentation: MS Office, Canva & Figma       
 
 # MY PROJECTS
 • Learning Machine Learning & NLP in Python (Latest - 2024)  
