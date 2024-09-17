@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/c16VBbh/Screenshot-20230110-111546.png" alt="Screenshot-20230110-111546" border="0" width="100%">
+![Hatim sawai](https://github.com/user-attachments/assets/260e3bb9-e58d-4aba-ac52-cbce195fc0f9)
 
 # HATIM SAWAI
 Pursuing Computer Engineering At Sardar Patel Institute of Technology  
