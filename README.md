@@ -1,7 +1,7 @@
 ![Hatim sawai](https://github.com/user-attachments/assets/260e3bb9-e58d-4aba-ac52-cbce195fc0f9)
 
 # HATIM SAWAI
-Pursuing Computer Engineering At Sardar Patel Institute of Technology  
+B.Tech Computer Engineering Graduate From Sardar Patel Institute of Technology, 2025
 
 Email: hatimsawai76@gmail.com  
 Student Email: hatim.sawai@spit.ac.in    
