@@ -6,17 +6,20 @@ B.Tech Computer Engineering Graduate From Sardar Patel Institute of Technology, 
 Email: hatimsawai76@gmail.com  
 Student Email: hatim.sawai@spit.ac.in    
 
+---
+
 # MY TECH SKILLS   
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitstar53&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hitstar53"/>  
-  
-• Languages: C, C++, Java, & Python  
-• Frontend: Html, CSS, JS  
-• Frontend Frameworks: Bootstrap, Tailwind, React, React-Native  
-• Backend: Flask & Django (Python), Node & Express (JS)  
-• Databases: MySQL, SQLite & MongoDB, firebase (GCP)  
-• Version-Control: Gitlab, Github (git)    
-• Other tools: VSCode, WSL (Windows), Android Studio, Linux  
-• Presentation: MS Office, Canva & Figma       
+
+- Languages: Python, Java, C, Javascript, HTML, CSS
+- Libraries: Bootstrap, Tailwind, Selenium, TensorFlow, PyTorch, NLTK, Boto3
+- Databases: MySQL, MongoDB, Google Firebase, AWS Redshift and DynamoDB
+- Cloud: AWS Lambda, Step Functions, CloudFormation, CDK, API Gateway, Sagemaker
+- Frameworks: Node, Express, React, Next, React Native, Django REST API, Flask, Plotly Dash, Java Spring Boot
+- Messaging/Streaming: Apache Kafka
+- Tools: MS Office, VS Code, Intellij Idea and DataGrip, Figma, Linux, Git/GitHub, Docker, Tableau, PowerBI
+
+---
 
 # MY PROJECTS
 • Learning Machine Learning & NLP in Python (Latest - 2024)  
@@ -29,6 +32,8 @@ Student Email: hatim.sawai@spit.ac.in
 • Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
 • Made a discord bot (StarBot) as a general multipurpose bot (2021)  
 • Made many Python Based Mini Projects (2021)  
+
+---
 
 # GITHUB STATS
 
